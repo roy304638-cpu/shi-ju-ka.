@@ -11,7 +11,7 @@
   "EMAIL": "your email",
   "PASSWORD": "your password",
   "OTPKEY": "",
-  "BOTNAME": "─꯭─⃝‌‌shi zu ka 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
+  "BOTNAME": "─꯭─⃝‌‌𝐒hi ju ka 𝐂𝐡𝐚𝐭 𝐁𝐨𝐭",
   "PREFIX": "/",
   "reactUnsend": ["😡", "🤧", "😤", "😠"],
 
@@ -137,4 +137,4 @@
     "log": { "enable": true },
     "god": { "enable": true }
   }
-}
+  }
